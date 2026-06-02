@@ -23,6 +23,10 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
+# JetBrains Rider / IntelliJ Excludes
+.idea/
+*.sln.iml
+
 # .NET Core
 project.lock.json
 project.fragment.lock.json
